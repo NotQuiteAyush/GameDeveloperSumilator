@@ -1,5 +1,7 @@
 # Ship Day
 
+Made By Ayush Keshri With The Assistance Of AI. Mainly Claude And Chat-Gpt . Idead Was Orginally By Me. 
+
 A top-down game developer office sim. Hold E at stations to design, code, test and ship features. Crunch to go faster, but bugs will follow.
 
 Controls: WASD / arrows to move, hold E to work, hold Shift to crunch.
